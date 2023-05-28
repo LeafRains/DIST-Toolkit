@@ -41,3 +41,10 @@ A screw dislocation can be found in bcc_screw
 You can find these files in examples/BCC/bcc_screw_dislocation/
 Please do not foget to cite my paper if you find the toolkit is useful. Thanks!
 
+## 更新记录
+
+对于文本编码错误的解决，利用UTF-8进行编码。
+
+## 结果
+
+由于得不到想要的功能，故而放弃该项目。
